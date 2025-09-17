@@ -1,3 +1,6 @@
+Anisha Kalivarapu
+Indian Institute of Technology,Mechanical Engineering
+
 # AI Assignment Assistant Agent
 
 This repository contains a **modular AI agent system** designed to automate drafting university assignments from a given topic prompt. The system uses **fine-tuned LLMs (LoRA)** and multi-agent workflows for planning, content generation, and review.
