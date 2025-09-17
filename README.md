@@ -1,5 +1,6 @@
 Anisha Kalivarapu,
-Indian Institute of Technology,Mechanical Engineering
+Indian Institute of Technology,New Delhi
+Mechanical Engineering
 
 # AI Assignment Assistant Agent
 
